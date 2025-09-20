@@ -1,1 +1,1 @@
-# Cloud-Cost-Optimization
+# EBS-Cost-Optimization
